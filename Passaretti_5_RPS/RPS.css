@@ -1,0 +1,26 @@
+body {
+ text-align:center;
+ color:#FF0000;
+ background-color:#000000;
+}
+
+h2 {
+ width:600px;
+ margin-left:auto;
+ margin-right:auto;
+ background-color:#440044;
+ border-style:solid;
+ border-color:#AA0000;
+}
+
+div {
+ width:315px;
+ margin-left:auto;
+ margin-right:auto;
+ border-style:solid;
+ border-color:#AA0000;
+ background-color:#440044;
+ color:#AA0000;
+}
+
+
